@@ -1,0 +1,23 @@
+.list-item {
+  list-style-type: none;
+  margin: 20px;
+}
+
+.language-button {
+  background-color: transparent;
+  border: 1px solid #db1c48;
+  border-radius: 15px;
+  padding: 5px 15px 5px 15px;
+  color: #db1c48;
+  font-family: 'Roboto';
+  font-size: 14px;
+  font-weight: 500;
+  outline: none;
+  cursor: pointer;
+}
+
+.active-btn {
+  background-color: #db1c48;
+  border: none;
+  color: #ffffff;
+}
